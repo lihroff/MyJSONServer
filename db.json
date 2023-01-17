@@ -1,11 +1,15 @@
 {
-  "lists": [
+  "wwc": [
+    {
+      "key": "WWC",
+      "value": "What We Call"
+    },
     {
       "key": "JS",
       "value": "JavaScript"
     },
     {
-      "key": "py",
+      "key": "PY",
       "value": "Python"
     }
   ]
