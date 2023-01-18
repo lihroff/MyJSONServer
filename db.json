@@ -6,11 +6,14 @@
     },
     {
       "key": "JS",
-      "value": "JavaScript"
+      "value": "JavaScript",
+      "topic": "language"
+      
     },
     {
       "key": "PY",
-      "value": "Python"
+      "value": "Python",
+      "topic": "language"
     }
   ]
 }
